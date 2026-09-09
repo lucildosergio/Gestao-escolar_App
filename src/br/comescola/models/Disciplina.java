@@ -1,3 +1,5 @@
+package br.comescola.models;
+
 public class Disciplina {
     private int id;
     private String codigo;
